@@ -7,3 +7,5 @@ It will save your addresses and total mined of each coin. Simply run the program
 It will timestamp and print out the amount of each coin mined along with it's dollar value.
 When it asks if you'd like to save, type yes or no. If you plan on logging both coins, say no on the first one.
 You can manually save if you accidentally skip these prompts by typing save.
+Lost interest in further developing this program, as is it works until your pool has a payout.
+Then the next day will be reported as the negative of your whole payout, less the bit you've mined that day.
